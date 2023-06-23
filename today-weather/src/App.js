@@ -160,8 +160,8 @@ function App() {
                       style={{
                         position: 'absolute',
                         right: 10,
-                        top: 70,
-                        width: 400,
+                        top: 120,
+                        width: 350,
                         zIndex: 1
                       }}
                     />
